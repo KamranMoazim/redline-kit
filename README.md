@@ -26,7 +26,7 @@ Running `examples/edits.json` (8 edits) against it:
 - Paragraph properties (numbering, styles) are byte-identical before and after.
 - The bold "Contractor" stays bold inside the deletion.
 
-![PDF redlines in Preview](docs/pdf-preview.png)
+![PDF strikeouts and notes](docs/pdf-preview.png)
 
 ## How it works
 
