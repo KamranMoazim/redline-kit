@@ -1,0 +1,42 @@
+[
+  {
+    "clause_ref": "2",
+    "find": "within thirty (30) days",
+    "replace": "within forty-five (45) days",
+    "comment": "Align with the owner's pay-when-paid terms."
+  },
+  {
+    "find": "The Contractor may terminate",
+    "replace": "Either party may terminate",
+    "comment": "Termination for convenience should be mutual."
+  },
+  {
+    "find": "within thirty (30) days",
+    "occurrence": 3,
+    "replace": "within sixty (60) days"
+  },
+  {
+    "clause_ref": "6",
+    "find": "from all claims arising out of the Work",
+    "replace": "from third-party claims to the extent caused by Subcontractor's negligence",
+    "comment": "Limit indemnity to comparative fault."
+  },
+  {
+    "find": "seven (7) days' written notice",
+    "replace": "fourteen (14) days' written notice"
+  },
+  {
+    "clause_ref": "8",
+    "find": "State of Texas",
+    "replace": "State of New York"
+  },
+  {
+    "find": "Subcontractor shall furnish all labour, materials and equipment",
+    "replace": "Subcontractor shall furnish all labor and materials",
+    "comment": "Equipment is owner-furnished."
+  },
+  {
+    "find": "liquidated damages",
+    "comment": "Add a cap on liquidated damages at 5% of the subcontract sum."
+  }
+]
